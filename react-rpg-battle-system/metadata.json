@@ -1,0 +1,5 @@
+{
+  "name": "React RPG Battle System",
+  "description": "A Dragon Quest 11 style Conditional Turn-Based battle system using React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
